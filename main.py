@@ -66,4 +66,5 @@ def main():
         writer.writerows(row for row in res)
             
 # logger.add("output.log")
-main()
+if __name__ == '__main__':
+    main()
