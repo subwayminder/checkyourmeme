@@ -1,9 +1,9 @@
-accounts.txt
+addresses.txt
 proxy.txt
 __pycache__/
 .vscode
 .venv
 .vscode
 .env
-logging.log
+output.log
 output.csv
